@@ -1,0 +1,8 @@
+{
+    "ShowBootstrapperDeprecationNotification": false,
+    "WantNoneDriverWarning": false,
+    "WantReportErrorPrompt": false,
+    "WantUpdateNotification": false,
+    "driver": "none",
+    "kubernetes-version": "v1.17.3"
+}
